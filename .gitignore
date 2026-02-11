@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# Outputs
+*.gif
+*.mp4
+
+# OS / editor
+.DS_Store
+.vscode/

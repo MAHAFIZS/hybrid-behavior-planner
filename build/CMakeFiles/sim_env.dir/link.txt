@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsim_env.a CMakeFiles/sim_env.dir/sim_env/src/world.cpp.o CMakeFiles/sim_env.dir/sim_env/src/vehicle.cpp.o CMakeFiles/sim_env.dir/sim_env/src/sensors.cpp.o CMakeFiles/sim_env.dir/sim_env/src/scenario.cpp.o
+/usr/bin/ranlib libsim_env.a

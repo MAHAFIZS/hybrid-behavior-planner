@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplanner_core.a CMakeFiles/planner_core.dir/planner_core/src/fsm.cpp.o CMakeFiles/planner_core.dir/planner_core/src/safety.cpp.o
+/usr/bin/ranlib libplanner_core.a
