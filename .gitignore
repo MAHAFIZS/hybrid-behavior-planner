@@ -13,3 +13,7 @@ venv/
 # OS / editor
 .DS_Store
 .vscode/
+# Allow demo media in docs/
+!docs/
+!docs/*.gif
+!docs/*.mp4
