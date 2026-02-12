@@ -20,6 +20,11 @@ Includes reproducible benchmarking on **unseen scenarios**, metric reporting, an
   - Summary metrics (success/collision/latency/clearance)
   - Plots
   - Side-by-side demos (GIF + optional MP4)
+# Hybrid Behavior Planner
+
+### Deterministic FSM vs PPO + Safety Shield
+
+![Cinematic Demo](docs/compare_fsm_vs_ppo_shield_cinematic.gif)
 
 ---
 
